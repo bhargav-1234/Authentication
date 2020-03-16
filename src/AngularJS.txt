@@ -40,3 +40,26 @@ the controller's decision to present the data. they are script-based template sy
 
 3.Controller: It is responsible to controll the relation between models and views.it responds to user input and performs interactions on the data model objects.
 The controller recieves input,validates it, and then performs business operations that modify the state of the data model.
+                *************************************Angular Data Binding*******************************************
+ Data binding is a very useful and powerful feature used in software development technologies.It acts as a bridge between the view
+ and business logic of the application.
+ *Angulsr JS follows Two-way data binding model.
+ 
+ .One-way Data Binding:
+ the one-way data binding is an appproach where a value is taken from the data model and inserted into HTML element.there is no way to upadate model from view.It is used i classical template systems bind data only one direction.
+                          
+                                               * one-way data binding*
+                                                     
+                                                     view
+                                                      |
+                                                   ome-time
+                                                    merge
+                                                /             \
+                                           vtemplate          Model
+                                                    
+                                                    
+ .Two-way Data Binding:
+ 
+ 
+ 
+ 
