@@ -1,0 +1,42 @@
+********************************************************************AngularJS******************************************************************************
+1.What is AngularJS?
+AngularJS is open source javascript framework that is build web applications.it can be freely used, changed and sharedby any one.
+*AngularJS developed by google.
+*It is an excellent framework for building single phase applications and line of business applications.
+/*Advantages of AngularJs*/
+there are lot of javascript frameworks for building web applications.so,it is a genuine question,why to use AngularJs.
+**Following are the advantages of ngularJS over other JavaScript frameworks:
+.Dependency injection: Dependency injection specifies a design patern in which components are given their dependencies instead of hard coding them within
+the component.
+
+.Two way data binding: AngularJs creats a two way data-binding between the select element and the orderProp model.OrderPorp is then used as the input for 
+the the oredrBy filter.
+
+.Testing:Angular JS is designed in a way that we can test right from the start.so,it is very easy to test any of its component through unit testing and end-to-end
+testing.
+
+Model view controller: In Angular JS, it is very easy to develop application in a clean MVC way.you just have to split your application code into MVC component i.e
+model,view and the controller.
+
+.Directives, filters ,modules, routes etc.
+                 
+     ***************************************************Angular JS MVC Architecture*****************************************************
+MVC stands for "model view Controller".It is a software design pattern for developing web applications. it is very popular because it isolates the Application logic from 
+the user interface layer and supports separation of concern.
+                                                
+                                                            Event
+                                                              |
+                                                          Controller<---
+                                                              |        |
+                                                            View       |
+                                                              |        |
+                                                            Model<------  
+  The MVC Pattern is made up of the following three parts:
+ 
+1.Model: it is responsible for managing application data.it responds to the request from the view and to the instructions from controller to update itself.
+ 
+2.View: it is responsible for displaying all data or only a portion of data to the users.it also specifies the data in a particular format triggered by 
+the controller's decision to present the data. they are script-based template systems such as JSP, ASP , PHP and very easy to integrate with ajax technology.
+
+3.Controller: It is responsible to controll the relation between models and views.it responds to user input and performs interactions on the data model objects.
+The controller recieves input,validates it, and then performs business operations that modify the state of the data model.
